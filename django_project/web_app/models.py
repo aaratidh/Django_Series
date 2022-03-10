@@ -13,5 +13,6 @@ class Post(models.Model): #eachh class going to be each table in the database
     # to manage the value used the default as pass timezone as the value 
     # this function wil take the time from the current time zone
     # we need to run the migration to update the database in Django 
-
+    
+    
 
